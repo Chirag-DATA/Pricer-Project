@@ -31,11 +31,13 @@ Make sure you have **Python 3.9+** and **Node.js** installed on your system.
 ### 2. Backend Setup (FastAPI)
 Navigate to your backend directory and follow these steps:
 
-# Install required Python packages
+### Install required Python packages
 pip install fastapi uvicorn undetected-chromedriver xgboost textblob
 
-# Start the FastAPI server
+### Start the FastAPI server
 uvicorn main:app --reload
+
+---
 
 ## 💡 How to Use
 
