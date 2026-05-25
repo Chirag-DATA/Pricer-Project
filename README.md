@@ -1,4 +1,4 @@
-# Pricer.Pro 🚀
+# Pricer 🚀
 
 Pricer.Pro is an AI-powered market intelligence engine built to help e-commerce sellers optimize product pricing in real-time. By analyzing live competitor data, consumer sentiment, and market trends, the platform replaces manual guesswork with automated, data-backed pricing strategies.
 
@@ -31,10 +31,10 @@ Make sure you have **Python 3.9+** and **Node.js** installed on your system.
 ### 2. Backend Setup (FastAPI)
 Navigate to your backend directory and follow these steps:
 
-### Install required Python packages
+### 3. Install required Python packages
 pip install fastapi uvicorn undetected-chromedriver xgboost textblob
 
-### Start the FastAPI server
+### 4. Start the FastAPI server
 uvicorn main:app --reload
 
 ---
