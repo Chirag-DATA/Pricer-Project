@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+selenium
+undetected-chromedriver
+pandas
+scikit-learn
+xgboost
+textblob
+python-multipart
