@@ -1,9 +1,11 @@
 fastapi
 uvicorn
-selenium
-undetected-chromedriver
-pandas
-scikit-learn
+gunicorn
 xgboost
+scikit-learn
+pandas
+numpy
 textblob
-python-multipart
+reportlab
+beautifulsoup4
+requests
